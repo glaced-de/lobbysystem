@@ -1,0 +1,5 @@
+name: LobbySystem-GitHub
+version: '${project.version}'
+main: de.glaced.lobbysystem.Lobbysystem
+api-version: 1.18
+authors: [ lowtime ]
